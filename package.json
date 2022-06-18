@@ -2,15 +2,11 @@
   "name": "portfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
-  "source": "src/index.html",
+  "description": "el mejor portafolio for ever ",
+  "source": "dist/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
   },
   "keywords": [],
   "author": "https://github.com/SergioPuentes",

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "portfolio",
   "version": "1.0.1",
   "private": "true",
@@ -28,4 +29,16 @@
     "popper.js": "^1.16.1",
     "vanilla-tilt": "^1.7.2"
   }
+=======
+  "name": "portofolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+>>>>>>> dc72cd059cfcebd46efe682efcee5ba22fc9ba67
 }
